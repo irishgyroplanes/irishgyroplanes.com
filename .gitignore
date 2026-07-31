@@ -7,3 +7,7 @@ _gallery-snippets.txt
 # Local tooling
 .vscode/
 .idea/
+
+# Cloudflare / Wrangler
+.wrangler/
+.dev.vars
